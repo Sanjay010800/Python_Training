@@ -1,0 +1,6 @@
+print("Addition: ",2+2)
+print("Substraction: ",6-2)
+print("Multiplication:", 4*2)
+print("Division:", 9/3)
+print("integer division:",9//3)
+print("Remainder:   ",8%3)
